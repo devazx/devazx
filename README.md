@@ -1,7 +1,7 @@
 # 👋 Olá, sou o Daniel Vaz!
 
 Sou Desenvolvedor Backend Focado em .NET em processo de migração, atualmente em busca de uma oportunidade no mercado 
-Iniciei minha jornada em desenvolvimento dentro da logística, criando ferramentas automatizadas com VBA | C# | Python etc..., o que me dispertou grande interesse em C# e .NET
+Iniciei minha jornada em desenvolvimento dentro da logística, criando ferramentas automatizadas com VBA | C# | Python etc..., o que me despertou grande interesse em C# e .NET
 Em 2021 comecei a iniciar algumas coisas com **[.NET](https://dotnet.microsoft.com/)** e ingressei na graduçao de engenharia de software pela Uninter, com foco em ser desenvolvedor .NET **[Microsoft](https://www.microsoft.com/pt-br/)**.
 
 Estou em constante aprendizado, meu foco em finalizar a gradução e me tornar um profissional de qualidade no merdado, mesmo com as responsabilidades do dia-a-dia, busco evoluir nem que seja 1% a cada dia.
